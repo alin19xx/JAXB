@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<usuarios>
+    <usuario>
+        <username>alin19xx</username>
+        <nombre>Alex</nombre>
+        <password>alex</password>
+    </usuario>
+    <usuario>
+        <username>Nico</username>
+        <nombre>nluchi</nombre>
+        <password>luchi</password>
+    </usuario>
+    <usuario>
+        <username>poco</username>
+        <nombre>poco</nombre>
+        <password>poco</password>
+    </usuario>
+    <usuario>
+        <username>josemaria</username>
+        <nombre>Jose</nombre>
+        <password>qwerty</password>
+    </usuario>
+    <usuario>
+        <username>pol</username>
+        <nombre>pol</nombre>
+        <password>pol</password>
+    </usuario>
+    <usuario>
+        <username>pool</username>
+        <nombre>pool</nombre>
+        <password>pool</password>
+    </usuario>
+</usuarios>

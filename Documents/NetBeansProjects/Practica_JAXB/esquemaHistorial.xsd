@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<xs:schema attributeFormDefault="unqualified" 
+           elementFormDefault="qualified" 
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="historial">
+    <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+        <xs:element name="userName" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+                 <xs:element type="xs:string" name="username"/>
+              <xs:element name="sudoku">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="problem"/>
+                    <xs:element type="xs:string" name="solved"/>
+                    <xs:element type="xs:int" name="time"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:int" name="level"/>
+                  <xs:attribute type="xs:string" name="description"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<historial>
+    <userName>
+        <username>alin19xx</username>
+        <sudoku level="16" description="Fiendish">
+            <problem>8.5.6...2...7..8....4..8.3...8....1...19.34...5....3...9.2..7....7..6...1...5.2.9</problem>
+            <solved>835469172612735894974128635368542917721983456459671328596214783287396541143857269</solved>
+            <time>25</time>
+        </sudoku>
+    </userName>
+    <userName>
+        <username>alin19xx</username>
+        <sudoku level="8" description="Hard">
+            <problem>.1.6.973......8..52.....1.9.2.5..67.....4.....68..7.9.7.4.....21..4......521.3.4.</problem>
+            <solved>815629734947318265236754189429581673371946528568237491794865312183472956652193847</solved>
+            <time>15</time>
+        </sudoku>
+    </userName>
+    <userName>
+        <username>Nico</username>
+        <sudoku level="5" description="Medium">
+            <problem>1.49.52.8..9...7...3.....6...34.96..5.......3..16.84...6.....7...7...9..8.53.21.6</problem>
+            <solved>174965238659283714238714569783459621546127893921638457462891375317546982895372146</solved>
+            <time>50</time>
+        </sudoku>
+    </userName>
+    <userName>
+        <username>Nico</username>
+        <sudoku level="9" description="Hard">
+            <problem>2....5.1....61..9..3.8....7.86.9....4..1.6..2....5.46.8....4.7..7..31....6.9....3</problem>
+            <solved>298745316745613298631829547386492751459176832127358469813264975972531684564987123</solved>
+            <time>30</time>
+        </sudoku>
+    </userName>
+    <userName>
+        <username>alin19xx</username>
+        <sudoku level="11" description="Hard">
+            <problem>.3..1.2......4..61....895.324...6.3.....7.....7.4...155.789....98..6......4.3..7.</problem>
+            <solved>435617298892345761761289543248156937156973482379428615517894326983762154624531879</solved>
+            <time>10</time>
+        </sudoku>
+    </userName>
+</historial>
